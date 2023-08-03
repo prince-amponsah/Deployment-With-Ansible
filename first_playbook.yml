@@ -1,16 +1,21 @@
 ---
 
-- name: This playbook will install nginx
-  host: servers
-  become: yes
-   tasks:
-     - name: install nginx
-	apt:
-	   name: nginx
-           state: latest
+- 
+ name: this is a  simple html project
+ hosts: servers
+ become: yes
+ tasks:
+   - name: Install nginx
+     apt:
+       name: nginx
+       state: latest
 
-     - name: start nginx
-       service:
-          name: nginx
-	  state: started
-          enabled:: yes
+   - name: Start nginx
+     service:
+       name: nginx
+       state: started
+
+   - name: Deploy webpage
+     copy: 
+       src: index.html
+       dest: /var/www/html 

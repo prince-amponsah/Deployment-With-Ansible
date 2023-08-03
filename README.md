@@ -131,12 +131,6 @@ So, we successfully deployed a sample webpage to all the dedicated servers. and 
 
 So, as you can see I have performed all the tasks successfully. I recommend you to first read this article and understand the entire concepts and then move forward to Hands-ON. I believe this was the easiest way to explain about Ansible.
 
-If you folks find any difficulties to perform the labs. kindly mail me at sandeep010498@gmail.com. I would be Happy to help.
+Special Credit to:  GitHub repository — singhsandeep98/Ansible (github.com)
 
-GitHub repository — singhsandeep98/Ansible (github.com)
-
-So folks, I hope you liked this article. if you find this article helpful then kindly give feedback and also follow me for more, and also do let me know about the topic of next Blog.
-
-— — — — — — THANK YOU_________
-
-— — — — SANDEEP SINGH______-
+Thank You!

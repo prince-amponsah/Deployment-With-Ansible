@@ -3,7 +3,7 @@ Deployment of a simple webpage using Ansible.
 
 
 
-<strong>Things to be covered in Hands-On.</strong>
+<strong>Things to be covered in this Hands-On.</strong>
 
 1. Creating Host server.
 
